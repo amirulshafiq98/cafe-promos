@@ -14,11 +14,11 @@ Insights and recommendations are provided in the following areas:
 
 Tableau Dashboard [Link](https://www.google.com)
 
-SQL query for inspecting and checking values [Link](https://www.google.com)
+SQL query for inspecting and checking values [Link](https://github.com/amirulshafiq98/cafe-promos/blob/main/clean-up.sql)
 
-SQL query for importing and creating tables  [Link](https://www.google.com)
+SQL query for importing and creating tables  [Link](https://github.com/amirulshafiq98/cafe-promos/blob/main/manipulation.sql)
 
-SQL query for checking and dashboard preparation [Link](https://www.google.com)
+SQL query for checking and dashboard preparation [Link](https://github.com/amirulshafiq98/cafe-promos/blob/main/prep.sql)
 
 
 
@@ -27,7 +27,7 @@ The cafe promotions table structure are as follows: customers, events and offers
 
 ![Cafe Schema](https://github.com/user-attachments/assets/f7311a88-089c-4c44-b47b-9b74cc5b564d)
 
-As the events file had a column in JSON format, the column was trimmed to remove the excess strings for easier quering. SQL query for cleaning can be downloaded [here](https://www.google.com)
+As the events file had a column in JSON format, the column was trimmed to remove the excess strings for easier quering. SQL query for cleaning can be viewed [here](https://github.com/amirulshafiq98/cafe-promos/blob/main/clean-up.sql)
 
 
 # Executive Summary
